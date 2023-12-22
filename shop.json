@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "holodilnik",
+    "vendor_code": "111",
+    "description": "холодит",
+    "price": 404,
+    "img": "https://media.au.ru/imgs/400x800/294baa04fda402984f6178827ea4c8f6/prodam-kholodilnik-zil-moskva-1-910962.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Сарай для дров",
+    "vendor_code": "222",
+    "description": "большой",
+    "price": 1515,
+    "img": "https://avatars.mds.yandex.net/get-altay/1363707/2a00000163993c686808375b4b36c72e02f8/orig"
+  },
+  {
+    "id": "3",
+    "title": "Антивилка",
+    "vendor_code": "333",
+    "description": "Не колется",
+    "price": 39,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bK0VXb9DpNjXZRT6jCSKx2Ll4YJ72N6wVg&usqp=CAU"
+  },
+  {
+    "id": "4",
+    "title": "еЖИК",
+    "vendor_code": "444",
+    "description": "Колится",
+    "price": 41,
+    "img": "https://img.freepik.com/premium-photo/hedgehog-baby-on-the-white-background-closeup_332544-1357.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Хлеб",
+    "vendor_code": "4445e",
+    "description": "Бывают в жизни огорочения, когда без хлеба ешь печенье.",
+    "price": 0,
+    "img": "https://api.patrickmary.ru/api/file/Nomenclature729x475/10143/49f94203-7c71-11e9-80f4-00155d02df12_99-0028281_729x475.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Wait",
+    "vendor_code": "4446e",
+    "description": "Описание 6",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+  },
+  {
+    "id": "7",
+    "title": "Bob",
+    "vendor_code": "4447e",
+    "description": "Описание 7",
+    "price": 700,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+  },
+  {
+    "id": "8",
+    "title": "Avatar",
+    "vendor_code": "4448e",
+    "description": "Описание 8",
+    "price": 800,
+    "img": "avatar.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Товар 9",
+    "vendor_code": "444e",
+    "description": "Описание 9",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Avatar",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 900,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
+  },
+  {
+    "id": "11",
+    "title": "Товар 11",
+    "vendor_code": "44411e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+  }
+]
